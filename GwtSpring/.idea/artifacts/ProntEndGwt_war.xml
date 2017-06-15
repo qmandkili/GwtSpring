@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProntEndGwt:war">
+    <output-path>$PROJECT_DIR$/ProntEndGwt/target</output-path>
+    <root id="archive" name="FrontEnd.war">
+      <element id="artifact" artifact-name="ProntEndGwt:war exploded" />
+    </root>
+  </artifact>
+</component>
